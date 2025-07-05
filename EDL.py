@@ -11,7 +11,7 @@ g = 2021-12-31
 # What are the datatypes of our variable?
 type (g)
 
-# Importing Python datetime library
+# Printing datetime using the Python datetime library
 
 import datetime
 
