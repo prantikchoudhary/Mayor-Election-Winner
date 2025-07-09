@@ -1,5 +1,9 @@
 # Exploratory Data Analysis and Predicting the Winner of the Windsor Mayor Election
 Performed a Simple Exploratory Data Analysis and predicted the winner of the Windsor Mayor Election 
+
+EDL.py - For Loading and Exploring the Data
+visualizations.py - For visualizing the winner of the Windsor Mayor Election
+
 Technical Stack: Python (Pandas, matplotlib) and Jupyter NoteBook
 
 ## 1. Loading and Exploring the data
